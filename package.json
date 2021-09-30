@@ -1,7 +1,8 @@
 {
     "name": "lightheaded",
     "displayName": "Lightheaded",
-    "description": "Comfy theme for VSCode",
+    "description": "Comfy, warm theme for pastel colors lovers. 🤍",
+    "publisher": "Pandorque",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.60.0"
@@ -9,6 +10,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "icons/lightheaded-logo.png",
     "contributes": {
         "themes": [
             {
@@ -17,5 +19,13 @@
                 "path": "./themes/Lightheaded-color-theme.json"
             }
         ]
+    },
+    "author": {
+        "name": "Margot Dumoulin",
+        "url": "https://margotdumoulin.fr/"
+    },
+    "repository": {
+        "url": "https://github.com/MargotDumoulin/lightheaded-vstheme.git",
+        "type": "git"
     }
 }
