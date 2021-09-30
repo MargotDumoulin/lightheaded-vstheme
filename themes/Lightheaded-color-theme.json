@@ -67,7 +67,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#b100e8"
+				"foreground": "#ffd166"
 			}
 		},
 		{
@@ -109,7 +109,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#e500a4"
+				"foreground": "#918ef4"
 			}
 		},
 		{
@@ -231,7 +231,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#b100e8"
+				"foreground": "#ffd166"
 			}
 		},
 		{
@@ -241,7 +241,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#b100e8"
+				"foreground": "#ffd166"
 			}
 		},
 		{
@@ -318,7 +318,7 @@
 				"markup.deleted"
 			],
 			"settings": {
-				"foreground": "#b100e8"
+				"foreground": "#ffd166"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#b100e8"
+				"foreground": "#ffd166"
 			}
 		},
 		{
@@ -413,7 +413,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#b100e8"
+				"foreground": "#ffd166"
 			}
 		},
 		{
