@@ -1,11 +1,11 @@
+# README 
 
-## Lightheaded - VSCode Theme 🥑 
+## Settings
 
-A warm, comfy VSCode Theme, for pastel colors lovers. 🤍
-
-### Settings
+<br />
 
 - Note that you may be required to change the settings of your title bar native style (in your VSCode settings - settings.json). <br />
+
 
  ``` 
     "window.titleBarStyle": "custom"

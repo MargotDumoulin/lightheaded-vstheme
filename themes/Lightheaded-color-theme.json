@@ -2,19 +2,27 @@
 	"name": "Lightheaded",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#1d1d26",
+		"editor.background": "#27212D",
 		"editor.foreground": "#eeffff",
-		"activityBar.foreground": "#8ae2a4",
-		"statusBar.background": "#8ae2a4",
-		"statusBar.foreground":"#000",
-		"activityBar.background": "#1D1D26",
-		"sideBar.background": "#252530",
+		"activityBar.foreground": "#db83a1",
+		"tab.activeBorder": "#db83a1",
+		"activityBar.inactiveForeground": "#ffffff57",
+		"statusBar.background": "#db83a1",
+		"statusBar.foreground":"#fff",
+		"activityBar.background": "#27212D",
+		"tab.inactiveBackground": "#27212D",
+		"tab.border": "#27212D",
+		"editorGroupHeader.tabsBackground": "#27212D",
+		"titleBar.inactiveBackground": "#27212D",
+		"titleBar.activeBackground": "#27212D",
+		"sideBar.background": "#27212D",
 		"sideBar.foreground": "#fff",
-		"sideBarSectionHeader.foreground": "#FE99BB",
-		"list.warningForeground": "#FE99BB",
-		"list.inactiveSelectionForeground": "#8ae2a4",
-		"activityBarBadge.background": "#8ae2a4", // Badge de notifications, peut être aperçu par exemple sur l'icône settings en bas à gauche 
-		"sideBarTitle.foreground": "#FE99BB"
+		"sideBarSectionHeader.background": "#27212D",
+		"sideBarSectionHeader.foreground": "#ffffffc7",
+		"list.warningForeground": "#BCFE9A",
+	    "list.inactiveSelectionForeground": "#db83a1",	
+		"activityBarBadge.background": "#db83a1", // Badge de notifications, peut être aperçu par exemple sur l'icône settings en bas à gauche 
+		"sideBarTitle.foreground": "#db83a1"
 	},
 	"tokenColors": [
 		{
