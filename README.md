@@ -7,8 +7,6 @@ A warm, comfy VSCode Theme, for pastel colors lovers. 🤍
 
 ![JS Preview](preview/preview_react.png)
 
-<br />
-
 ![CSS Preview](preview/preview_css.png)
 
 
