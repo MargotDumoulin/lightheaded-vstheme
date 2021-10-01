@@ -5,7 +5,7 @@
     "publisher": "Pandorque",
     "version": "0.0.3",
     "engines": {
-        "vscode": "^1.60.0"
+        "vscode": "^1.50.1"
     },
     "categories": [
         "Themes"
