@@ -3,7 +3,7 @@
     "displayName": "Lightheaded Theme",
     "description": "Comfy, warm theme for pastel colors lovers. 🤍",
     "publisher": "Pandorque",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.50.1"
     },
