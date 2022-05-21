@@ -245,6 +245,14 @@
 			}
 		},
 		{
+			"name": "Special Methods",
+			"scope": "keyword.other.special-method",
+			"settings": {
+			    "fontStyle": "italic",
+			    "foreground": "#ffd166"
+			}
+		},
+		{
 			"name": "entity.name.method.js",
 			"scope": [
 				"entity.name.method.js"
